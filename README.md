@@ -1,5 +1,5 @@
 <h1>Hii!!</h1>
-<h3 align="center">I’m Aypodele, a software developer with interests in Python, web development, and AI-powered applications.</h3>
+<h5>I’m Ayodele, a software developer with interests in Python, web development, and AI-powered applications.</h3>
 
 - 🔭 I love working on projects based on **Python, Rust, Typescript**
 
