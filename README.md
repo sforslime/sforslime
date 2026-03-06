@@ -5,7 +5,7 @@ I’m Ayodele, a software developer with interests in Python, web development, a
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **ayoaopa3@gmail.com**
+- 📫 You can reach me via [Email](ayoaopa3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ayodele-opadiran).
 
 - ⚡ Fun fact **I believe nothing is truly random, even the famous "Brownian Motion"**
 
