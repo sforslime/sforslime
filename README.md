@@ -8,16 +8,8 @@ CS student at **York University** in Toronto. Getting into AI/ML...
 - **[LetuSell](https://letusell.ng)**: a WhatsApp concierge for Nigerian campuses. Students ask in plain English or Pidgin and get routed straight to the right vendor.
 - **[news-router](https://github.com/sforslime/news-router)**: A single API for pulling articles from multiple Nigerian news outlets.
   
-## Other things I've built
- 
-| Project | What it is | Stack |
-|---|---|---|
-| [terminal-site](https://github.com/sforslime/terminal-site) | A portfolio you SSH into, no browser needed | Go, Bubble Tea, Wish |
-| [trace](https://github.com/sforslime/trace) | Offline-first hike tracker with a shared community map | SwiftUI, MapLibre, Supabase |
-| [voice-llm-v1](https://github.com/sforslime/voice-llm-v1) | Voice assistant with a local LLM backend and native macOS client | Swift, Flask, Ollama |
-| [air-canvas](https://github.com/sforslime/air-canvas) | Draw in mid-air with your webcam | Python, OpenCV, MediaPipe |
-| [live-flight-checker](https://github.com/sforslime/live-flight-checker) | Real-time domestic flight checker for Nigeria | FastAPI, Selenium |
- 
+More in my [repos](https://github.com/sforslime?tab=repositories).
+
 ## Stack
  
 **Languages:** Python · TypeScript · Go · Swift · C++ · SQL
