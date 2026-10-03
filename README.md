@@ -1,20 +1,30 @@
-# Hi there!  👋
-I’m Ayodele, a software developer with interests in Python, web development, and AI-powered applications.
-
-- 🔭 I love working on projects based on **Python, Rust, Typescript**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 You can reach me via [Email](ayoaopa3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ayodele-opadiran).
-
-- ⚡ Fun fact **I believe nothing is truly random, even the famous "Brownian Motion"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sforslime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sforslime" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayodele-opadiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodele-opadiran" height="30" width="40" /></a>
-<a href="https://instagram.com/yourstruly.ayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourstruly.ayo" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+# Hi, I'm Ayo 👋
+ 
+CS student at **York University** in Toronto. I build local-first AI tools, full-stack products and the occasional iOS app, with a soft spot for making LLMs work in African languages.
+ 
+## What I'm working on
+ 
+- **[quant-bench](https://github.com/sforslime/quant-bench)**: what quantizing a local LLM really costs in English, Nigerian Pidgin and Yoruba. Speed, memory and quality, measured on an M4 Mac.
+- **LetuSell**: a WhatsApp concierge for campus. Students ask in plain English or Pidgin and get routed straight to the right vendor.
+- **[news-router](https://github.com/sforslime/news-router)**: one read-only API across Nigerian newsrooms. Metadata only, licensed rather than scraped.
+## Other things I've built
+ 
+| Project | What it is | Stack |
+|---|---|---|
+| [terminal-site](https://github.com/sforslime/terminal-site) | A portfolio you SSH into, no browser needed | Go, Bubble Tea, Wish |
+| [trace](https://github.com/sforslime/trace) | Offline-first hike tracker with a shared community map | SwiftUI, MapLibre, Supabase |
+| [voice-llm-v1](https://github.com/sforslime/voice-llm-v1) | Voice assistant with a local LLM backend and native macOS client | Swift, Flask, Ollama |
+| [air-canvas](https://github.com/sforslime/air-canvas) | Draw in mid-air with your webcam | Python, OpenCV, MediaPipe |
+| [live-flight-checker](https://github.com/sforslime/live-flight-checker) | Real-time domestic flight checker for Nigeria | FastAPI, Selenium |
+ 
+## Stack
+ 
+**Languages:** Python · TypeScript · Go · Swift · C++ · SQL
+**AI/ML:** PyTorch · TensorFlow · OpenCV · llama.cpp · Ollama
+**Web & backend:** Next.js · React · FastAPI · Flask · Supabase
+ 
+## Find me
+ 
+[LinkedIn](https://www.linkedin.com/in/ayodele-opadiran) · [yourstruly.ayo](https://yourstruly.ayo)
+ 
+Open to **Summer 2027 internships** in Toronto.
