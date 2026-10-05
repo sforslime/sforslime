@@ -1,6 +1,6 @@
 # Hi, I'm Ayo 👋
  
-CS student at **York University** in Toronto. Getting into AI/ML...
+CS student at **York University** in Toronto. Getting into AI/ML....
  
 ## What I'm working on
  
